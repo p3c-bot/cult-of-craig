@@ -14,6 +14,7 @@ Facts about CSW's Involvement in Bitcoin
 * [Craig Wright faked threats](http://archive.is/YTDGT)
 * [Craig Wright faked a public key signing](http://archive.is/dNCUX)
 * [Craig Wright faked knowing how to code ASM](https://twitter.com/_LR_/status/1033405218036170752)
+* [Craig Wright fake precursor to Bitcoin, Blacknet, retroactively plagarizes from the Satoshi whitepaper](http://web.archive.org/web/20190211040256/https://imgur.com/uCskxTF)
 
 ## Fraud
 
